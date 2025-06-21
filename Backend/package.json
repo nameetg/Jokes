@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Dummy jokes",
+  "keywords": [
+    "javascript",
+    "node",
+    "jokes"
+  ],
+  "license": "ISC",
+  "author": "Nameet",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
